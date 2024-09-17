@@ -61,11 +61,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Er wordt elk blok gestart met de titel --> afbeelding --> kop 3 titel --> voorlezen paragraph
   <img src="readme-images/ZorgaanbodPaginaScreenreader.png" widht="375px" alt='Screenshot Zorgaanbod'>
 
+
   Op de pagina van Vacatures gebeurd niet veel.
   De paragraph wordt duidelijk voorgelezen.
   <img src="readme-images/VacaturesPaginaScreenreader.png" widht="375px" alt='Screenshot Vacatures'>
+
   
-  Echter wordt de lijst wel duidelijk benoemd als element.
+  Echter wordt de lijst wel duidelijk benoemd als element. Lijst --> 4 onderdelen --> opsommingsteken.
   <img src="readme-images/LijstVacaturesPaginaScreenreader.png" widht="375px" alt='Screenshot List Element'>
   
 </details>
