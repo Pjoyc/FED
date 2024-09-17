@@ -76,8 +76,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/BezochtLinkZorgaanbod.png" width="400px" alt='Screenreader voorbeeld banner'>
 
   
-  Ook de kopjes worden logisch voorgelezen. Je hoort steeds Kopniveau 1 --> Ons thuiszorg aanbod, gevolgd met tekst eronder --> Kopniveau 4 --> Tracheacanule,        canulezorg gevolgd met tekst eronder. Zo herhaalt hij dit voor elk blokje, en elk blokje bevat een Kopniveau 4 met tekst.
-  Hierbij is mij dus ook niks geks opgevallen.
+  Ook de kopjes worden logisch voorgelezen. Je hoort steeds Kopniveau 1 --> Ons thuiszorg aanbod, gevolgd met tekst eronder --> Kopniveau 4 --> Tracheacanule,        canulezorg gevolgd met tekst eronder. Zo herhaalt hij dit voor elk blokje, en elk blokje bevat een Kopniveau 4 met tekst. Hierbij is mij dus ook niks geks   opgevallen.
   <img src="readme-images/VoorlezenHeaderZorgaanbod.png" width="400px" alt='Screenreader voorbeeld Header lezen'>
   
   
