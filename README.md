@@ -58,7 +58,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   Op de pagina van Zorgaanbod wordt de structuur heel snel duidelijk door middel van de Voice over.
-  Er wordt elk blok gestart met de titel --> afbeelding --> kop 3 titel --> voorlezen paragraph
+  Er wordt gestart met de Kopniveau 1 --> titel --> onderstaande tekst. 
+  Vervolgens nagiveert de Screenreader door naar de blokjes. Je hoort dan eerst de naam van het blokje --> Kopniveau 4 --> titel van de tekst --> voorlezen onderstaande tekst.
   <img src="readme-images/ZorgaanbodPaginaScreenreader.png" width="400px" alt='Screenshot Zorgaanbod'>
 
 
@@ -75,9 +76,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Je hoort dan Bezocht --> Link --> Zorgaanbod. Dit gebeurd bij elke link met de juiste benaming.
   <img src="readme-images/BezochtLinkZorgaanbod.png" width="400px" alt='Screenreader voorbeeld banner'>
 
-  
-  Ook de kopjes worden logisch voorgelezen. Je hoort steeds Kopniveau 1 --> Ons thuiszorg aanbod, gevolgd met tekst eronder --> Kopniveau 4 --> Tracheacanule,        canulezorg gevolgd met tekst eronder. Zo herhaalt hij dit voor elk blokje, en elk blokje bevat een Kopniveau 4 met tekst. Hierbij is mij dus ook niks geks   opgevallen.
-  <img src="readme-images/VoorlezenHeaderZorgaanbod.png" width="400px" alt='Screenreader voorbeeld Header lezen'>
   
   Als overig commentaar moet ik erbij zetten dat ik de analyse zelfstandig heb gedaan. Ik ben afwezig geweest in verband met mijn aftsudeerstage die ik loop. Veel opdrachten voor ik dus zelfstandig uit. Dingen die ik heb opgezocht of waarbij ik hulp heb gekregen geef ik netjes aan. 
   
