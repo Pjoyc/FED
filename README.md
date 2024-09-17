@@ -79,6 +79,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ook de kopjes worden logisch voorgelezen. Je hoort steeds Kopniveau 1 --> Ons thuiszorg aanbod, gevolgd met tekst eronder --> Kopniveau 4 --> Tracheacanule,        canulezorg gevolgd met tekst eronder. Zo herhaalt hij dit voor elk blokje, en elk blokje bevat een Kopniveau 4 met tekst. Hierbij is mij dus ook niks geks   opgevallen.
   <img src="readme-images/VoorlezenHeaderZorgaanbod.png" width="400px" alt='Screenreader voorbeeld Header lezen'>
   
+  Als overig commentaar moet ik erbij zetten dat ik de analyse zelfstandig heb gedaan. Ik ben afwezig geweest in verband met mijn aftsudeerstage die ik loop. Veel opdrachten voor ik dus zelfstandig uit. Dingen die ik heb opgezocht of waarbij ik hulp heb gekregen geef ik netjes aan. 
   
 </details>
 
