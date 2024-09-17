@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <a href="https://harsamzorg.nl">Bezoek Website</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Zorgaanbod 
   <img src="readme-images/ssZorgaanbod.png" width="375px" alt="Zorgaanbod pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+ Vacatures 
   <img src="readme-images/ssVacature.png" width="375px" alt="Vacatures pagina">
  
 </details>
