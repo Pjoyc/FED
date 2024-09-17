@@ -59,24 +59,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
   Op de pagina van Zorgaanbod wordt de structuur heel snel duidelijk door middel van de Voice over.
   Er wordt elk blok gestart met de titel --> afbeelding --> kop 3 titel --> voorlezen paragraph
-  <img src="readme-images/ZorgaanbodPaginaScreenreader.png" width="375px" alt='Screenshot Zorgaanbod'>
+  <img src="readme-images/ZorgaanbodPaginaScreenreader.png" width="400px" alt='Screenshot Zorgaanbod'>
 
 
   Op de pagina van Vacatures gebeurd niet veel.
   De paragraph wordt duidelijk voorgelezen.
-  <img src="readme-images/VacaturesPaginaScreenreader.png" width="375px" alt='Screenshot Vacatures'>
+  <img src="readme-images/VacaturesPaginaScreenreader.png" width="400px" alt='Screenshot Vacatures'>
 
   
   Echter wordt de lijst wel duidelijk benoemd als element. Lijst --> 4 onderdelen --> opsommingsteken.
-  <img src="readme-images/LijstVacaturesPaginaScreenreader.png" width="375px" alt='Screenshot List Element'>
+  <img src="readme-images/LijstVacaturesPaginaScreenreader.png" width="400px" alt='Screenshot List Element'>
+
 
   Verder wordt er op beide pagina's duidelijk uitgelegd naar welke pagina je navigeert als je op een link staat in bijvoorbeeld de banner.
   Je hoort dan Bezocht --> Link --> Zorgaanbod. Dit gebeurd bij elke link met de juiste benaming.
-  <img src="readme-images/BezochtLinkZorgaanbod.png" width="375px" alt='Screenreader voorbeeld banner'>
+  <img src="readme-images/BezochtLinkZorgaanbod.png" width="400px" alt='Screenreader voorbeeld banner'>
+
   
-  Ook de kopjes worden logisch voorgelezen. Je hoort steeds Kopniveau 1 --> Ons thuiszorg aanbod, gevolgd met tekst eronder --> Kopniveau 4 --> Tracheacanule,    canule zorg gevolgd met tekst eronder. Zo herhaalt hij dit voor elk blokje, en elk blokje bevat een Kopniveau 4 met tekst.
+  Ook de kopjes worden logisch voorgelezen. Je hoort steeds Kopniveau 1 --> Ons thuiszorg aanbod, gevolgd met tekst eronder --> Kopniveau 4 --> Tracheacanule,        canulezorg gevolgd met tekst eronder. Zo herhaalt hij dit voor elk blokje, en elk blokje bevat een Kopniveau 4 met tekst.
   Hierbij is mij dus ook niks geks opgevallen.
-  <img src="readme-images/VoorlezenHeaderZorgaanbod.png" width="375px" alt='Screenreader voorbeeld Header lezen'>
+  <img src="readme-images/VoorlezenHeaderZorgaanbod.png" width="400px" alt='Screenreader voorbeeld Header lezen'>
   
   
 </details>
