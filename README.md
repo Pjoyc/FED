@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Pricilla Clijdesdale
 
   #### Je startniveau:
-  blauw
+  Blauw
 
   #### Je focus:
   Responsive
